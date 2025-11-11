@@ -1,12 +1,8 @@
-# Dstat - System Monitoring Denial Of Service
+# Dstat - System Monitoring L7 DoS
 
 ---
 
 <p align="center">
-
-  <a href="https://github.com/REYHAN6610/dstats">
-    <img src="https://img.shields.io/github/repo-size/REYHAN6610/dstats?style=for-the-badge&logo=github" alt="Repo Size" />
-  </a>
 
   <a href="https://github.com/REYHAN6610/dstats">
     <img src="https://img.shields.io/github/languages/code-size/REYHAN6610/dstats?style=for-the-badge" alt="Code Size" />
